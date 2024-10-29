@@ -46,8 +46,8 @@ export const connectDB = async () => {
     await mongoose.connect('<Enter your mongodb uri here>/food_delivery_db').then(() => console.log('DB connected successfully'))
 }
 ```
-#### Run the Project
-- Start the backend server.
+#### Run the Project.
+- Start the backend server
 ```bash
 cd backend
 npm run server
@@ -57,7 +57,7 @@ npm run server
 cd ../frontend
 npm run dev
 ```
-- Start the panel.
+- Start the admin panel
 ```bash
 cd ../admin
 npm run dev
@@ -71,3 +71,19 @@ Ensure your Stripe account is configured to work in the environment you're testi
 
 ## Screenshots
 
+![image alt](https://github.com/MrTharinduDasantha/Full-Stack-Food-Ordering-App/blob/86a92fb0c288094d3893f2702fabb02e94073e90/Img%20-%201.png)
+![image alt](https://github.com/MrTharinduDasantha/Full-Stack-Food-Ordering-App/blob/86a92fb0c288094d3893f2702fabb02e94073e90/Img%20-%202.png)
+![image alt](https://github.com/MrTharinduDasantha/Full-Stack-Food-Ordering-App/blob/86a92fb0c288094d3893f2702fabb02e94073e90/Img%20-%203.png)
+![image alt](https://github.com/MrTharinduDasantha/Full-Stack-Food-Ordering-App/blob/86a92fb0c288094d3893f2702fabb02e94073e90/Img%20-%204.png)
+![image alt](https://github.com/MrTharinduDasantha/Full-Stack-Food-Ordering-App/blob/86a92fb0c288094d3893f2702fabb02e94073e90/Img%20-%205.png)
+![image alt](https://github.com/MrTharinduDasantha/Full-Stack-Food-Ordering-App/blob/86a92fb0c288094d3893f2702fabb02e94073e90/Img%20-%206.png)
+![image alt](https://github.com/MrTharinduDasantha/Full-Stack-Food-Ordering-App/blob/86a92fb0c288094d3893f2702fabb02e94073e90/Img%20-%207.png)
+![image alt](https://github.com/MrTharinduDasantha/Full-Stack-Food-Ordering-App/blob/86a92fb0c288094d3893f2702fabb02e94073e90/Img%20-%208.png)
+![image alt](https://github.com/MrTharinduDasantha/Full-Stack-Food-Ordering-App/blob/86a92fb0c288094d3893f2702fabb02e94073e90/Img%20-%209.png)
+![image alt](https://github.com/MrTharinduDasantha/Full-Stack-Food-Ordering-App/blob/86a92fb0c288094d3893f2702fabb02e94073e90/Img%20-%2010.png)
+![image alt](https://github.com/MrTharinduDasantha/Full-Stack-Food-Ordering-App/blob/86a92fb0c288094d3893f2702fabb02e94073e90/Img%20-%2011.png)
+![image alt](https://github.com/MrTharinduDasantha/Full-Stack-Food-Ordering-App/blob/86a92fb0c288094d3893f2702fabb02e94073e90/Img%20-%2012.png)
+![image alt](https://github.com/MrTharinduDasantha/Full-Stack-Food-Ordering-App/blob/86a92fb0c288094d3893f2702fabb02e94073e90/Img%20-%2013.png)
+![image alt](https://github.com/MrTharinduDasantha/Full-Stack-Food-Ordering-App/blob/86a92fb0c288094d3893f2702fabb02e94073e90/Img%20-%2014.png)
+
+<h4 align="center"> Don't forget to leave a star ⭐️ </h4>
