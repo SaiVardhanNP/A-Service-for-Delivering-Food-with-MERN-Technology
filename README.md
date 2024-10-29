@@ -1,4 +1,4 @@
-# Full Stack Real-Time Chat Website
+# Full Stack Food Ordering Website
 
 In this project, I will make a Full-stack food ordering website using React JS, Node JS, Express JS, MongoDB, and Stripe payment gateway.
 
