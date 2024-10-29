@@ -50,7 +50,7 @@ export const connectDB = async () => {
 - Start the backend server.
 ```bash
 cd backend
-npm start
+npm run server
 ```
 - Start the frontend.
 ```bash
