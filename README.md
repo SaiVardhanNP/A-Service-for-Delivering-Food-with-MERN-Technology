@@ -18,8 +18,8 @@ Link 👉 https://drive.google.com/file/d/1jlX5Y0q55-ivIWTnZ0yum3vaoxwURoS3/view
 
 Clone the repository and navigate to each project folder to install dependencies.
 ```bash
-  git clone https://github.com/MrTharinduDasantha/Full-Stack-Food-Ordering-App.git
-  cd Full-Stack-Food-Ordering-App
+  git clone https://github.com/MrTharinduDasantha/Full-Stack-Food-Ordering-Website.git
+  cd Full-Stack-Food-Ordering-Website
 ```
 #### Folder Setup
 The project is divided into three main folders: admin, frontend, and backend. You will need to install dependencies for each.
