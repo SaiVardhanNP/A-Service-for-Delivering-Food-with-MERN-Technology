@@ -7,20 +7,9 @@ In this Full-stack food ordering website, I will create the frontend website, ad
 I will create the shopping cart functionality so that user can add food items in their cart and order food from this app. We will also integrate the Stripe payment gateway to place the order and with online payment. Then I will create the order status update features also.
 
 
-## Demo
-
-By clicking this link you can see the demonstration of the full stack food ordering website.
-
-Link 👉 https://drive.google.com/file/d/1jlX5Y0q55-ivIWTnZ0yum3vaoxwURoS3/view?usp=sharing 👈
 
 
-## Installation
 
-Clone the repository and navigate to each project folder to install dependencies.
-```bash
-  git clone https://github.com/MrTharinduDasantha/Full-Stack-Food-Ordering-Website.git
-  cd Full-Stack-Food-Ordering-Website
-```
 #### Folder Setup
 The project is divided into three main folders: admin, frontend, and backend. You will need to install dependencies for each.
 - Navigate to each folder (admin, frontend, and backend) and run.
@@ -69,21 +58,4 @@ Make sure your MongoDB URI is correct and that your database permissions are con
 Ensure your Stripe account is configured to work in the environment you're testing.
 
 
-## Screenshots
 
-![image alt](https://github.com/MrTharinduDasantha/Full-Stack-Food-Ordering-App/blob/86a92fb0c288094d3893f2702fabb02e94073e90/Img%20-%201.png)
-![image alt](https://github.com/MrTharinduDasantha/Full-Stack-Food-Ordering-App/blob/86a92fb0c288094d3893f2702fabb02e94073e90/Img%20-%202.png)
-![image alt](https://github.com/MrTharinduDasantha/Full-Stack-Food-Ordering-App/blob/86a92fb0c288094d3893f2702fabb02e94073e90/Img%20-%203.png)
-![image alt](https://github.com/MrTharinduDasantha/Full-Stack-Food-Ordering-App/blob/86a92fb0c288094d3893f2702fabb02e94073e90/Img%20-%204.png)
-![image alt](https://github.com/MrTharinduDasantha/Full-Stack-Food-Ordering-App/blob/86a92fb0c288094d3893f2702fabb02e94073e90/Img%20-%205.png)
-![image alt](https://github.com/MrTharinduDasantha/Full-Stack-Food-Ordering-App/blob/86a92fb0c288094d3893f2702fabb02e94073e90/Img%20-%206.png)
-![image alt](https://github.com/MrTharinduDasantha/Full-Stack-Food-Ordering-App/blob/86a92fb0c288094d3893f2702fabb02e94073e90/Img%20-%207.png)
-![image alt](https://github.com/MrTharinduDasantha/Full-Stack-Food-Ordering-App/blob/86a92fb0c288094d3893f2702fabb02e94073e90/Img%20-%208.png)
-![image alt](https://github.com/MrTharinduDasantha/Full-Stack-Food-Ordering-App/blob/86a92fb0c288094d3893f2702fabb02e94073e90/Img%20-%209.png)
-![image alt](https://github.com/MrTharinduDasantha/Full-Stack-Food-Ordering-App/blob/86a92fb0c288094d3893f2702fabb02e94073e90/Img%20-%2010.png)
-![image alt](https://github.com/MrTharinduDasantha/Full-Stack-Food-Ordering-App/blob/86a92fb0c288094d3893f2702fabb02e94073e90/Img%20-%2011.png)
-![image alt](https://github.com/MrTharinduDasantha/Full-Stack-Food-Ordering-App/blob/86a92fb0c288094d3893f2702fabb02e94073e90/Img%20-%2012.png)
-![image alt](https://github.com/MrTharinduDasantha/Full-Stack-Food-Ordering-App/blob/86a92fb0c288094d3893f2702fabb02e94073e90/Img%20-%2013.png)
-![image alt](https://github.com/MrTharinduDasantha/Full-Stack-Food-Ordering-App/blob/86a92fb0c288094d3893f2702fabb02e94073e90/Img%20-%2014.png)
-
-<h4 align="center"> Don't forget to leave a star ⭐️ </h4>
